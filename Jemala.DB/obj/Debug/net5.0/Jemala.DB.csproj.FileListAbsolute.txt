@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\bin\Debug\net5.0\Jemala.DB.deps.json
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\bin\Debug\net5.0\Jemala.DB.runtimeconfig.json
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\bin\Debug\net5.0\Jemala.DB.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\bin\Debug\net5.0\Jemala.DB.dll
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\bin\Debug\net5.0\ref\Jemala.DB.dll
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\bin\Debug\net5.0\Jemala.DB.pdb
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\obj\Debug\net5.0\Jemala.DB.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\obj\Debug\net5.0\Jemala.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\obj\Debug\net5.0\Jemala.DB.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\obj\Debug\net5.0\Jemala.DB.AssemblyInfo.cs
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\obj\Debug\net5.0\Jemala.DB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\obj\Debug\net5.0\Jemala.DB.dll
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\obj\Debug\net5.0\ref\Jemala.DB.dll
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\obj\Debug\net5.0\Jemala.DB.pdb
+C:\Users\Admin\source\repos\JemalaDB\Jemala.DB\obj\Debug\net5.0\Jemala.DB.genruntimeconfig.cache
